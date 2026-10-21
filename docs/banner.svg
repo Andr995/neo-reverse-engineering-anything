@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Neo Reverse Engineering Anything</title><desc id="desc">Analisi locale. Interfaccia desktop. Ricompilazione PS2 sperimentale.</desc>
+<defs><linearGradient id="bg"><stop stop-color="#0d1828"/><stop offset="1" stop-color="#172e40"/></linearGradient></defs>
+<rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+<path d="M950 50h130v200H950M1010 90h110M1010 150h110M1010 210h110" fill="none" stroke="#46d7bf" stroke-width="3" opacity=".35"/>
+<text x="58" y="65" fill="#46d7bf" font-family="sans-serif" font-size="16" letter-spacing="4">REA DESKTOP · COMMUNITY PROJECT</text>
+<text x="58" y="130" fill="#fff" font-family="sans-serif" font-size="46" font-weight="700">Neo Reverse</text>
+<text x="58" y="185" fill="#fff" font-family="sans-serif" font-size="46" font-weight="700">Engineering Anything</text>
+<text x="60" y="245" fill="#a9c4d7" font-family="sans-serif" font-size="20">Analisi locale · Windows / Linux · PS2 sperimentale</text>
+</svg>

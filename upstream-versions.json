@@ -1,0 +1,28 @@
+{
+  "snapshot_date": "2026-10-21",
+  "kind": "source-only",
+  "frontend": "REA Desktop",
+  "python_tested": "3.12",
+  "pyside6": "6.10.2",
+  "pyinstaller": "6.19.0",
+  "rea": {
+    "repository": "https://github.com/morluto/rea",
+    "npm": "rea-agents@6.4.0",
+    "local_reference_commit": "d4f0c5e664e26fe7ed1566dcc4b85ea9b57d52da",
+    "node_engine": "^22.19.0 || ^24.11.0 || >=26.0.0",
+    "note": "The npm installation is recommended. The local source checkout contained three build/typecheck fixes; it is not bundled here."
+  },
+  "ps2recomp": {
+    "repository": "https://github.com/ran-j/PS2Recomp",
+    "commit": "2c5fbb9389e11dd95693385969490c9e8e6f57b4"
+  },
+  "raylib": {
+    "repository": "https://github.com/raysan5/raylib",
+    "version": "5.5",
+    "commit": "c1ab645ca298a2801097931d1079b10ff7eb9df8"
+  },
+  "ghidra_tested": "12.1.4",
+  "jdk_tested_major": 21,
+  "windows_tested": false,
+  "ps2_playable_verified": false
+}
